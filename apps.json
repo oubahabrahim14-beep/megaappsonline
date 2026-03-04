@@ -1,0 +1,373 @@
+[
+  {
+    "name": "WhatsApp",
+    "slug": "whatsapp",
+    "category": "Messaging",
+    "platforms": [
+      "Android",
+      "Web"
+    ],
+    "desc": "Simple, reliable messaging and calls.",
+    "url": "https://www.whatsapp.com/",
+    "store": "https://play.google.com/store/search?q=WhatsApp&c=apps"
+  },
+  {
+    "name": "Telegram",
+    "slug": "telegram",
+    "category": "Messaging",
+    "platforms": [
+      "Android",
+      "Web",
+      "Windows",
+      "Mac"
+    ],
+    "desc": "Fast messaging with channels and bots.",
+    "url": "https://telegram.org/",
+    "store": "https://play.google.com/store/search?q=Telegram&c=apps"
+  },
+  {
+    "name": "Signal",
+    "slug": "signal",
+    "category": "Messaging",
+    "platforms": [
+      "Android",
+      "iOS",
+      "Windows",
+      "Mac"
+    ],
+    "desc": "Private messaging with strong encryption.",
+    "url": "https://signal.org/",
+    "store": "https://play.google.com/store/search?q=Signal&c=apps"
+  },
+  {
+    "name": "Google Chrome",
+    "slug": "google-chrome",
+    "category": "Browser",
+    "platforms": [
+      "Android",
+      "Windows",
+      "Mac"
+    ],
+    "desc": "Fast browser with sync across devices.",
+    "url": "https://www.google.com/chrome/",
+    "store": "https://play.google.com/store/search?q=Google%20Chrome&c=apps"
+  },
+  {
+    "name": "Mozilla Firefox",
+    "slug": "firefox",
+    "category": "Browser",
+    "platforms": [
+      "Android",
+      "Windows",
+      "Mac"
+    ],
+    "desc": "Private browser with extensions and sync.",
+    "url": "https://www.mozilla.org/firefox/",
+    "store": "https://play.google.com/store/search?q=Firefox&c=apps"
+  },
+  {
+    "name": "Microsoft Edge",
+    "slug": "microsoft-edge",
+    "category": "Browser",
+    "platforms": [
+      "Android",
+      "Windows",
+      "Mac"
+    ],
+    "desc": "Modern browser with performance features.",
+    "url": "https://www.microsoft.com/edge",
+    "store": "https://play.google.com/store/search?q=Microsoft%20Edge&c=apps"
+  },
+  {
+    "name": "CapCut",
+    "slug": "capcut",
+    "category": "Video",
+    "platforms": [
+      "Android",
+      "iOS",
+      "Web"
+    ],
+    "desc": "Easy video editor with templates.",
+    "url": "https://www.capcut.com/",
+    "store": "https://play.google.com/store/search?q=CapCut&c=apps"
+  },
+  {
+    "name": "Canva",
+    "slug": "canva",
+    "category": "Design",
+    "platforms": [
+      "Android",
+      "iOS",
+      "Web"
+    ],
+    "desc": "Design tool for posts, logos and stories.",
+    "url": "https://www.canva.com/",
+    "store": "https://play.google.com/store/search?q=Canva&c=apps"
+  },
+  {
+    "name": "Snapseed",
+    "slug": "snapseed",
+    "category": "Photo",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "desc": "Powerful photo editor by Google.",
+    "url": "https://snapseed.online/",
+    "store": "https://play.google.com/store/search?q=Snapseed&c=apps"
+  },
+  {
+    "name": "Spotify",
+    "slug": "spotify",
+    "category": "Music",
+    "platforms": [
+      "Android",
+      "Web",
+      "Windows",
+      "Mac"
+    ],
+    "desc": "Music streaming with playlists and podcasts.",
+    "url": "https://www.spotify.com/",
+    "store": "https://play.google.com/store/search?q=Spotify&c=apps"
+  },
+  {
+    "name": "YouTube",
+    "slug": "youtube",
+    "category": "Video",
+    "platforms": [
+      "Android",
+      "Web"
+    ],
+    "desc": "Watch and share videos and shorts.",
+    "url": "https://www.youtube.com/",
+    "store": "https://play.google.com/store/search?q=YouTube&c=apps"
+  },
+  {
+    "name": "TikTok",
+    "slug": "tiktok",
+    "category": "Social",
+    "platforms": [
+      "Android",
+      "Web"
+    ],
+    "desc": "Short videos, trends and creators.",
+    "url": "https://www.tiktok.com/",
+    "store": "https://play.google.com/store/search?q=TikTok&c=apps"
+  },
+  {
+    "name": "Instagram",
+    "slug": "instagram",
+    "category": "Social",
+    "platforms": [
+      "Android",
+      "Web"
+    ],
+    "desc": "Photos, reels, stories and messaging.",
+    "url": "https://www.instagram.com/",
+    "store": "https://play.google.com/store/search?q=Instagram&c=apps"
+  },
+  {
+    "name": "Discord",
+    "slug": "discord",
+    "category": "Social",
+    "platforms": [
+      "Android",
+      "Web",
+      "Windows",
+      "Mac"
+    ],
+    "desc": "Communities, voice chat, and gaming groups.",
+    "url": "https://discord.com/",
+    "store": "https://play.google.com/store/search?q=Discord&c=apps"
+  },
+  {
+    "name": "Zoom",
+    "slug": "zoom",
+    "category": "Productivity",
+    "platforms": [
+      "Android",
+      "Windows",
+      "Mac",
+      "Web"
+    ],
+    "desc": "Video meetings for school and work.",
+    "url": "https://zoom.us/",
+    "store": "https://play.google.com/store/search?q=Zoom&c=apps"
+  },
+  {
+    "name": "Google Drive",
+    "slug": "google-drive",
+    "category": "Productivity",
+    "platforms": [
+      "Android",
+      "Web"
+    ],
+    "desc": "Cloud storage and file sharing.",
+    "url": "https://drive.google.com/",
+    "store": "https://play.google.com/store/search?q=Google%20Drive&c=apps"
+  },
+  {
+    "name": "Notion",
+    "slug": "notion",
+    "category": "Productivity",
+    "platforms": [
+      "Android",
+      "Web",
+      "Windows",
+      "Mac"
+    ],
+    "desc": "Notes, tasks and docs in one workspace.",
+    "url": "https://www.notion.so/",
+    "store": "https://play.google.com/store/search?q=Notion&c=apps"
+  },
+  {
+    "name": "Duolingo",
+    "slug": "duolingo",
+    "category": "Education",
+    "platforms": [
+      "Android",
+      "Web"
+    ],
+    "desc": "Learn languages with short daily lessons.",
+    "url": "https://www.duolingo.com/",
+    "store": "https://play.google.com/store/search?q=Duolingo&c=apps"
+  },
+  {
+    "name": "Khan Academy",
+    "slug": "khan-academy",
+    "category": "Education",
+    "platforms": [
+      "Android",
+      "Web"
+    ],
+    "desc": "Free learning for math and more.",
+    "url": "https://www.khanacademy.org/",
+    "store": "https://play.google.com/store/search?q=Khan%20Academy&c=apps"
+  },
+  {
+    "name": "Google Maps",
+    "slug": "google-maps",
+    "category": "Travel",
+    "platforms": [
+      "Android",
+      "Web"
+    ],
+    "desc": "Maps, navigation, and local places.",
+    "url": "https://maps.google.com/",
+    "store": "https://play.google.com/store/search?q=Google%20Maps&c=apps"
+  },
+  {
+    "name": "Shazam",
+    "slug": "shazam",
+    "category": "Music",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "desc": "Identify songs in seconds.",
+    "url": "https://www.shazam.com/",
+    "store": "https://play.google.com/store/search?q=Shazam&c=apps"
+  },
+  {
+    "name": "ChatGPT",
+    "slug": "chatgpt",
+    "category": "AI",
+    "platforms": [
+      "Android",
+      "Web"
+    ],
+    "desc": "AI assistant for questions and writing.",
+    "url": "https://chat.openai.com/",
+    "store": "https://play.google.com/store/search?q=ChatGPT&c=apps"
+  },
+  {
+    "name": "Google Gemini",
+    "slug": "google-gemini",
+    "category": "AI",
+    "platforms": [
+      "Android",
+      "Web"
+    ],
+    "desc": "AI assistant by Google for productivity.",
+    "url": "https://gemini.google.com/",
+    "store": "https://play.google.com/store/search?q=Gemini&c=apps"
+  },
+  {
+    "name": "Microsoft Copilot",
+    "slug": "microsoft-copilot",
+    "category": "AI",
+    "platforms": [
+      "Android",
+      "Web"
+    ],
+    "desc": "AI assistant for work and creativity.",
+    "url": "https://copilot.microsoft.com/",
+    "store": "https://play.google.com/store/search?q=Microsoft%20Copilot&c=apps"
+  },
+  {
+    "name": "Bitwarden",
+    "slug": "bitwarden",
+    "category": "Security",
+    "platforms": [
+      "Android",
+      "Web",
+      "Windows",
+      "Mac"
+    ],
+    "desc": "Password manager with secure vault.",
+    "url": "https://bitwarden.com/",
+    "store": "https://play.google.com/store/search?q=Bitwarden&c=apps"
+  },
+  {
+    "name": "Proton VPN",
+    "slug": "proton-vpn",
+    "category": "Security",
+    "platforms": [
+      "Android",
+      "Windows",
+      "Mac"
+    ],
+    "desc": "VPN focused on privacy and security.",
+    "url": "https://protonvpn.com/",
+    "store": "https://play.google.com/store/search?q=Proton%20VPN&c=apps"
+  },
+  {
+    "name": "1Password",
+    "slug": "1password",
+    "category": "Security",
+    "platforms": [
+      "Android",
+      "Web",
+      "Windows",
+      "Mac"
+    ],
+    "desc": "Password manager for families and teams.",
+    "url": "https://1password.com/",
+    "store": "https://play.google.com/store/search?q=1Password&c=apps"
+  },
+  {
+    "name": "Adobe Acrobat Reader",
+    "slug": "acrobat-reader",
+    "category": "Productivity",
+    "platforms": [
+      "Android",
+      "Windows",
+      "Mac"
+    ],
+    "desc": "Read and annotate PDF documents.",
+    "url": "https://www.adobe.com/acrobat/pdf-reader.html",
+    "store": "https://play.google.com/store/search?q=Adobe%20Acrobat%20Reader&c=apps"
+  },
+  {
+    "name": "Google Translate",
+    "slug": "google-translate",
+    "category": "Education",
+    "platforms": [
+      "Android",
+      "Web"
+    ],
+    "desc": "Translate text, speech and images.",
+    "url": "https://translate.google.com/",
+    "store": "https://play.google.com/store/search?q=Google%20Translate&c=apps"
+  }
+]

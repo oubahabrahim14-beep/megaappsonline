@@ -1,0 +1,178 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/apps"
+  to = "/apps/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/apps/seo"
+  to = "/apps/seo/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/ar/apps"
+  to = "/ar/apps/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/ar/apps/seo"
+  to = "/ar/apps/seo/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/devices"
+  to = "/devices/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/ar/devices"
+  to = "/ar/devices/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/privacy"
+  to = "/privacy.html"
+  status = 301
+
+[[redirects]]
+  from = "/terms"
+  to = "/terms.html"
+  status = 301
+
+[[redirects]]
+  from = "/dmca"
+  to = "/dmca.html"
+  status = 301
+
+[[redirects]]
+  from = "/contact"
+  to = "/contact.html"
+  status = 301
+
+[[redirects]]
+  from = "/cookies"
+  to = "/cookies.html"
+  status = 301
+
+[[redirects]]
+  from = "/guides"
+  to = "/guides/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/ar/guides"
+  to = "/ar/guides/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/best"
+  to = "/best/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/ar/best"
+  to = "/ar/best/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/compare"
+  to = "/compare/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/ar/compare"
+  to = "/ar/compare/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/play"
+  to = "/play/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/categories"
+  to = "/categories/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/ar/categories"
+  to = "/ar/categories/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/ar/play"
+  to = "/ar/play/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/trending"
+  to = "/trending/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/ar/trending"
+  to = "/ar/trending/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/search"
+  to = "/search.html"
+  status = 301
+
+[[redirects]]
+  from = "/ar/search"
+  to = "/ar/search.html"
+  status = 301
+
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "SAMEORIGIN"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "geolocation=(), microphone=(), camera=()"
+
+# Performance headers (added 2026-03-03)
+
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/images/game-thumbs-webp/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/play/games.json"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/ar/play/games.json"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/search_index.json"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/*.css"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "/*.js"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+

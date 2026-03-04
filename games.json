@@ -1,0 +1,568 @@
+[
+  {
+    "name": "Shell Shockers",
+    "slug": "shell-shockers",
+    "category": "FPS",
+    "play_url": "https://www.crazygames.com/game/shellshockers",
+    "desc": "Egg-based multiplayer FPS battles in your browser.",
+    "tags": [
+      "3d",
+      "action",
+      "fps",
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Krunker.io",
+    "slug": "krunker-io",
+    "category": "FPS",
+    "play_url": "https://www.crazygames.com/game/krunker-io",
+    "desc": "Fast competitive browser FPS with quick matches.",
+    "tags": [
+      "3d",
+      "action",
+      "fps",
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "War Brokers",
+    "slug": "war-brokers",
+    "category": "FPS",
+    "play_url": "https://warbrokers.io/",
+    "desc": "Online FPS with vehicles and large maps.",
+    "tags": [
+      "3d",
+      "action",
+      "fps",
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Bullet Force",
+    "slug": "bullet-force",
+    "category": "FPS",
+    "play_url": "https://www.crazygames.com/game/bullet-force-multiplayer",
+    "desc": "Modern FPS multiplayer with loadouts.",
+    "tags": [
+      "3d",
+      "action",
+      "fps",
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "1v1.LOL",
+    "slug": "1v1-lol",
+    "category": "FPS",
+    "play_url": "https://www.crazygames.com/game/1v1-lol",
+    "desc": "Build-and-fight shooter with 1v1 practice.",
+    "tags": [
+      "3d",
+      "action",
+      "fps",
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Voxiom.io",
+    "slug": "voxiom-io",
+    "category": "FPS",
+    "play_url": "https://www.crazygames.com/game/voxiom-io",
+    "desc": "Voxel-style FPS with crafting vibes.",
+    "tags": [
+      "3d",
+      "action",
+      "fps",
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Venge.io",
+    "slug": "venge-io",
+    "category": "FPS",
+    "play_url": "https://www.crazygames.com/search?q=Venge.io",
+    "desc": "Arcade FPS with short rounds and abilities.",
+    "tags": [
+      "3d",
+      "action",
+      "fps",
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Combat Reloaded",
+    "slug": "combat-reloaded",
+    "category": "FPS",
+    "play_url": "https://www.crazygames.com/search?q=Combat+Reloaded",
+    "desc": "Classic FPS gameplay with quick respawns.",
+    "tags": [
+      "3d",
+      "action",
+      "fps",
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Masked Forces",
+    "slug": "masked-forces",
+    "category": "FPS",
+    "play_url": "https://www.crazygames.com/search?q=Masked+Forces",
+    "desc": "Browser FPS with simple controls and maps.",
+    "tags": [
+      "3d",
+      "action",
+      "fps",
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Mini Royale",
+    "slug": "mini-royale",
+    "category": "FPS",
+    "play_url": "https://www.crazygames.com/game/mini-royale-io",
+    "desc": "Toy-soldier battle royale FPS action.",
+    "tags": [
+      "3d",
+      "action",
+      "fps",
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Slither.io",
+    "slug": "slither-io",
+    "category": "IO",
+    "play_url": "https://slither.io/",
+    "desc": "The iconic multiplayer snake IO game.",
+    "tags": [
+      "io",
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Agar.io",
+    "slug": "agar-io",
+    "category": "IO",
+    "play_url": "https://agar.io/",
+    "desc": "Grow your cell and dominate the arena.",
+    "tags": [
+      "io",
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Diep.io",
+    "slug": "diep-io",
+    "category": "IO",
+    "play_url": "https://diep.io/",
+    "desc": "Tank shooter IO with upgrades and classes.",
+    "tags": [
+      "action",
+      "fps",
+      "io",
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Paper.io 2",
+    "slug": "paper-io-2",
+    "category": "IO",
+    "play_url": "https://www.crazygames.com/game/paper-io-2",
+    "desc": "Claim territory and avoid being cut off.",
+    "tags": [
+      "io",
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Hole.io",
+    "slug": "hole-io",
+    "category": "IO",
+    "play_url": "https://www.crazygames.com/search?q=Hole.io",
+    "desc": "Swallow objects to become the biggest hole.",
+    "tags": [
+      "io",
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Build Royale",
+    "slug": "build-royale",
+    "category": "IO",
+    "play_url": "https://www.crazygames.com/search?q=Build+Royale",
+    "desc": "Top-down battle royale with building.",
+    "tags": [
+      "io",
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Zombs Royale",
+    "slug": "zombs-royale",
+    "category": "IO",
+    "play_url": "https://zombsroyale.io/",
+    "desc": "2D battle royale with fast queues.",
+    "tags": [
+      "io",
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Surviv.io",
+    "slug": "surviv-io",
+    "category": "IO",
+    "play_url": "https://www.crazygames.com/search?q=Surviv.io",
+    "desc": "Top-down battle royale style gameplay.",
+    "tags": [
+      "io",
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Moto X3M",
+    "slug": "moto-x3m",
+    "category": "Racing",
+    "play_url": "https://www.crazygames.com/game/moto-x3m",
+    "desc": "Bike stunt racing with tricky levels.",
+    "tags": [
+      "3d",
+      "no-download",
+      "racing"
+    ]
+  },
+  {
+    "name": "Drift Hunters",
+    "slug": "drift-hunters",
+    "category": "Racing",
+    "play_url": "https://www.crazygames.com/game/drift-hunters",
+    "desc": "3D drifting with tuning and tracks.",
+    "tags": [
+      "3d",
+      "no-download",
+      "racing"
+    ]
+  },
+  {
+    "name": "Madalin Stunt Cars 2",
+    "slug": "madalin-stunt-cars-2",
+    "category": "Racing",
+    "play_url": "https://www.crazygames.com/game/madalin-stunt-cars-2",
+    "desc": "Open-world stunt driving and supercars.",
+    "tags": [
+      "3d",
+      "no-download",
+      "racing"
+    ]
+  },
+  {
+    "name": "City Rider",
+    "slug": "city-rider",
+    "category": "Racing",
+    "play_url": "https://www.crazygames.com/search?q=City+Rider",
+    "desc": "City driving with different cars and routes.",
+    "tags": [
+      "3d",
+      "no-download",
+      "racing"
+    ]
+  },
+  {
+    "name": "Snow Rider 3D",
+    "slug": "snow-rider-3d",
+    "category": "Racing",
+    "play_url": "https://www.crazygames.com/search?q=Snow+Rider+3D",
+    "desc": "Downhill snow racing with obstacles.",
+    "tags": [
+      "3d",
+      "no-download",
+      "racing"
+    ]
+  },
+  {
+    "name": "Zombie Derby",
+    "slug": "zombie-derby",
+    "category": "Racing",
+    "play_url": "https://www.crazygames.com/search?q=Zombie+Derby",
+    "desc": "Car combat + zombies + upgrades.",
+    "tags": [
+      "3d",
+      "no-download",
+      "racing"
+    ]
+  },
+  {
+    "name": "Forge of Empires",
+    "slug": "forge-of-empires",
+    "category": "Strategy",
+    "play_url": "https://us.forgeofempires.com/",
+    "desc": "Build a city and evolve through ages.",
+    "tags": [
+      "no-download",
+      "strategy"
+    ]
+  },
+  {
+    "name": "Elvenar",
+    "slug": "elvenar",
+    "category": "Strategy",
+    "play_url": "https://us.elvenar.com/",
+    "desc": "Fantasy city builder with long-term progression.",
+    "tags": [
+      "no-download",
+      "strategy"
+    ]
+  },
+  {
+    "name": "Grepolis",
+    "slug": "grepolis",
+    "category": "Strategy",
+    "play_url": "https://us.grepolis.com/",
+    "desc": "Strategy in a Greek mythology world.",
+    "tags": [
+      "no-download",
+      "strategy"
+    ]
+  },
+  {
+    "name": "Goodgame Empire",
+    "slug": "goodgame-empire",
+    "category": "Strategy",
+    "play_url": "https://empire.goodgamestudios.com/",
+    "desc": "Build a kingdom and fight strategic wars.",
+    "tags": [
+      "no-download",
+      "strategy"
+    ]
+  },
+  {
+    "name": "Chess Online",
+    "slug": "chess-online",
+    "category": "Strategy",
+    "play_url": "https://www.chess.com/play/online",
+    "desc": "Play chess online against real players.",
+    "tags": [
+      "multiplayer",
+      "no-download",
+      "strategy"
+    ]
+  },
+  {
+    "name": "8 Ball Pool",
+    "slug": "8-ball-pool",
+    "category": "Sports",
+    "play_url": "https://www.crazygames.com/game/8-ball-billiards-classic",
+    "desc": "Billiards matches in your browser.",
+    "tags": [
+      "multiplayer",
+      "no-download",
+      "sports"
+    ]
+  },
+  {
+    "name": "Basket Random",
+    "slug": "basket-random",
+    "category": "Sports",
+    "play_url": "https://www.crazygames.com/game/basket-random",
+    "desc": "Funny chaotic 2‑player basketball.",
+    "tags": [
+      "multiplayer",
+      "no-download",
+      "sports"
+    ]
+  },
+  {
+    "name": "Basketball Stars",
+    "slug": "basketball-stars",
+    "category": "Sports",
+    "play_url": "https://www.crazygames.com/search?q=Basketball+Stars",
+    "desc": "1v1 hoops game with quick rounds.",
+    "tags": [
+      "multiplayer",
+      "no-download",
+      "sports"
+    ]
+  },
+  {
+    "name": "Soccer Random",
+    "slug": "soccer-random",
+    "category": "Sports",
+    "play_url": "https://www.crazygames.com/game/soccer-random",
+    "desc": "Chaotic 2‑player soccer fun.",
+    "tags": [
+      "multiplayer",
+      "no-download",
+      "sports"
+    ]
+  },
+  {
+    "name": "Soccer Skills",
+    "slug": "soccer-skills",
+    "category": "Sports",
+    "play_url": "https://www.crazygames.com/search?q=Soccer+Skills",
+    "desc": "Arcade soccer matches and goals.",
+    "tags": [
+      "multiplayer",
+      "no-download",
+      "sports"
+    ]
+  },
+  {
+    "name": "Subway Surfers",
+    "slug": "subway-surfers",
+    "category": "Arcade",
+    "play_url": "https://www.crazygames.com/game/subway-surfers",
+    "desc": "Endless runner with speed and style.",
+    "tags": [
+      "arcade",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Temple Run 2",
+    "slug": "temple-run-2",
+    "category": "Arcade",
+    "play_url": "https://www.crazygames.com/game/temple-run-2",
+    "desc": "Classic running and dodging action.",
+    "tags": [
+      "arcade",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Stickman Hook",
+    "slug": "stickman-hook",
+    "category": "Arcade",
+    "play_url": "https://www.crazygames.com/game/stickman-hook",
+    "desc": "Swing through levels like a grappling hero.",
+    "tags": [
+      "arcade",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Happy Wheels",
+    "slug": "happy-wheels",
+    "category": "Arcade",
+    "play_url": "https://www.crazygames.com/search?q=Happy+Wheels",
+    "desc": "Physics ragdoll levels and challenges.",
+    "tags": [
+      "arcade",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Run 3",
+    "slug": "run-3",
+    "category": "Arcade",
+    "play_url": "https://www.crazygames.com/search?q=Run+3",
+    "desc": "Endless runner in space tunnels.",
+    "tags": [
+      "arcade",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Rooftop Snipers",
+    "slug": "rooftop-snipers",
+    "category": "Action",
+    "play_url": "https://www.crazygames.com/search?q=Rooftop+Snipers",
+    "desc": "2‑player duels with hilarious physics.",
+    "tags": [
+      "action",
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Getaway Shootout",
+    "slug": "getaway-shootout",
+    "category": "Action",
+    "play_url": "https://www.crazygames.com/search?q=Getaway+Shootout",
+    "desc": "Race to the finish with chaotic jumps.",
+    "tags": [
+      "action",
+      "fps",
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Gun Mayhem",
+    "slug": "gun-mayhem",
+    "category": "Action",
+    "play_url": "https://www.crazygames.com/search?q=Gun+Mayhem",
+    "desc": "Platform shooter battles with friends.",
+    "tags": [
+      "action",
+      "fps",
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Raft Wars",
+    "slug": "raft-wars",
+    "category": "Action",
+    "play_url": "https://www.crazygames.com/search?q=Raft+Wars",
+    "desc": "Aim-and-shoot water battles.",
+    "tags": [
+      "action",
+      "fps",
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Fireboy and Watergirl",
+    "slug": "fireboy-watergirl",
+    "category": "Puzzle",
+    "play_url": "https://www.crazygames.com/search?q=Fireboy+and+Watergirl",
+    "desc": "Co‑op puzzle platformer teamwork.",
+    "tags": [
+      "no-download",
+      "puzzle"
+    ]
+  },
+  {
+    "name": "Among Us Online",
+    "slug": "among-us-online",
+    "category": "Social",
+    "play_url": "https://amongusplay.online/",
+    "desc": "Social deduction matches in browser style.",
+    "tags": [
+      "multiplayer",
+      "no-download"
+    ]
+  },
+  {
+    "name": "Tank Trouble",
+    "slug": "tank-trouble",
+    "category": "Action",
+    "play_url": "https://tanktrouble.com/",
+    "desc": "Multiplayer tank battles in mazes.",
+    "tags": [
+      "action",
+      "multiplayer",
+      "no-download"
+    ]
+  }
+]

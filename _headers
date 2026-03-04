@@ -1,0 +1,14 @@
+/images/*
+  Cache-Control: public, max-age=31536000, immutable
+/images/game-thumbs-webp/*
+  Cache-Control: public, max-age=31536000, immutable
+/play/games.json
+  Cache-Control: public, max-age=3600
+/ar/play/games.json
+  Cache-Control: public, max-age=3600
+/search_index.json
+  Cache-Control: public, max-age=3600
+/*.css
+  Cache-Control: public, max-age=604800
+/*.js
+  Cache-Control: public, max-age=604800

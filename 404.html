@@ -1,0 +1,67 @@
+<!doctype html><html lang="en"><head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>404 – Page Not Found | MegaApps</title>
+<meta name="robots" content="noindex"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link rel="stylesheet" href="/style.css"/>
+<style>
+.err-hero{text-align:center;padding:60px 20px 40px}
+.err-num{font-family:var(--fdisp,'Syne',sans-serif);font-size:clamp(80px,20vw,180px);font-weight:900;line-height:1;background:linear-gradient(135deg,var(--blue2),var(--purple));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;margin-bottom:0}
+.err-msg{font-size:18px;color:var(--muted);margin:12px 0 30px}
+.suggest-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:10px;margin:24px 0}
+.suggest-pill{display:flex;flex-direction:column;align-items:center;gap:6px;background:var(--card);border:1px solid var(--border2);border-radius:14px;padding:14px 10px;text-decoration:none;transition:all .2s;text-align:center;color:var(--text)}
+.suggest-pill:hover{border-color:rgba(56,189,248,.4);transform:translateY(-2px)}
+.suggest-pill span{font-size:22px}
+.suggest-pill strong{font-size:12px}
+</style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8205936128566251" crossorigin="anonymous"></script>
+</head><body>
+<header class="site-header"><div class="header-inner"><a href="/" class="brand">MegaApps</a><nav class="main-nav"><a href="/index.html">Home</a><a href="/games/index.html">🎮 Games</a><a href="/trending.html">🔥 Trending</a><a href="/unblocked/index.html">🏫 Unblocked</a></nav></div></header>
+
+<div class="container">
+<div class="err-hero">
+  <div class="err-num">404</div>
+  <h1 style="margin:8px 0 6px">Oops! Page Not Found</h1>
+  <p class="err-msg">This page doesn't exist — but 677 awesome pages do.<br>Try one of these instead 👇</p>
+
+  <div style="max-width:500px;margin:0 auto 30px">
+    <div style="display:flex;background:var(--card);border:1px solid var(--border2);border-radius:50px;overflow:hidden;padding:6px 6px 6px 20px">
+      <input id="q404" type="text" placeholder="Search games, apps, tips…" style="flex:1;background:none;border:none;outline:none;font-family:inherit;font-size:14px;color:var(--text)" onkeydown="if(event.key==='Enter')go()"/>
+      <button class="btn" style="border-radius:40px;padding:8px 20px" onclick="go()">Search →</button>
+    </div>
+  </div>
+
+  <div class="suggest-grid" style="max-width:600px;margin:0 auto">
+    <a href="/games/index.html" class="suggest-pill"><span>🎮</span><strong>All Games</strong></a>
+    <a href="/trending.html" class="suggest-pill"><span>🔥</span><strong>Trending</strong></a>
+    <a href="/unblocked/index.html" class="suggest-pill"><span>🏫</span><strong>Unblocked</strong></a>
+    <a href="/top/top-10-browser-games.html" class="suggest-pill"><span>🏆</span><strong>Top 10</strong></a>
+    <a href="/seo/2-player-games.html" class="suggest-pill"><span>👥</span><strong>2 Players</strong></a>
+    <a href="/quiz/which-browser-game.html" class="suggest-pill"><span>🧠</span><strong>Find My Game</strong></a>
+    <a href="/cheats/index.html" class="suggest-pill"><span>💡</span><strong>Cheats</strong></a>
+    <a href="/apps/index.html" class="suggest-pill"><span>📱</span><strong>Apps</strong></a>
+  </div>
+</div>
+
+<div class="section-label">🔥 Popular Right Now</div>
+<div class="grid" id="hot404"></div>
+
+<div class="ad ad-footer" style="margin-top:24px"><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8205936128566251" data-ad-slot="6452307097" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+</div>
+
+<footer class="site-footer"><div class="footer-inner"><div class="footer-links"><a href="/privacy.html">Privacy</a><a href="/terms.html">Terms</a><a href="/contact.html">Contact</a></div><div class="footer-copy">© 2026 megaapps.online</div></div></footer>
+<script src="/script.js" defer></script>
+<script>
+function go(){const q=document.getElementById('q404').value.trim();if(q)window.location.href='/search.html?q='+encodeURIComponent(q);}
+const hot=[
+  {name:'Krunker.io',slug:'krunker-io',cat:'FPS',desc:'Top browser FPS game.'},
+  {name:'Slither.io',slug:'slither-io',cat:'IO',desc:'Classic snake multiplayer.'},
+  {name:'Drift Hunters',slug:'drift-hunters',cat:'Racing',desc:'3D drifting perfection.'},
+  {name:'Moto X3M',slug:'moto-x3m',cat:'Racing',desc:'Stunt motorcycle racing.'},
+  {name:'Shell Shockers',slug:'shell-shockers',cat:'FPS',desc:'Egg battle FPS game.'},
+  {name:'Subway Surfers',slug:'subway-surfers',cat:'Arcade',desc:'Endless runner classic.'},
+];
+const catTag={FPS:'t-fps',IO:'t-io',Racing:'t-race',Arcade:'t-arcade'};
+document.getElementById('hot404').innerHTML=hot.map(g=>`<div class="card"><div class="thumb-wrap play-ov"><img class="thumb" src="/images/${g.slug}.webp" alt="${g.name}" loading="lazy" width="400" height="155" onerror="this.onerror=null;this.src='/images/${g.slug}.svg';this.onerror=function(){this.src='/images/fallback.webp';}"></div><div class="card-body"><div class="kv"><span class="${catTag[g.cat]||''}">${g.cat}</span><span class="t-free">Free</span></div><h3>${g.name}</h3><p class="meta">${g.desc}</p><div class="card-btns"><a class="btn small green" href="/play/${g.slug}.html" onclick="return MegaApps.trackPlay('${g.slug}')">▶ Play</a></div></div></div>`).join('');
+</script>
+</body></html>

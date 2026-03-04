@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+Disallow: /search.html?*
+Disallow: /*.json$
+
+# Main sections
+Allow: /games/
+Allow: /apps/
+Allow: /how-to/
+Allow: /news/
+Allow: /reviews/
+Allow: /alternatives/
+Allow: /tips/
+Allow: /guides/
+Allow: /ar/
+Allow: /best/
+Allow: /categories/
+Allow: /tags/
+Allow: /seo/
+
+Sitemap: https://megaapps.online/sitemap.xml
+
+User-agent: Mediapartners-Google
+Allow: /
